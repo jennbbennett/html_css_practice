@@ -1,0 +1,62 @@
+
+.bear-container {
+	height: 150px;
+	width: 600px;
+	border: black solid 2px;
+	margin: 10px 10px 10px 0;
+}
+
+.bearpic {
+	display: inline-block;
+	float: left;
+	height: 60%;
+	width: 15%;
+	border: black solid 2px;
+	margin: 10px;
+	background-color: yellow;
+}
+
+.bearinfo {
+	display: inline-block;
+	float: right;
+	height: 90%;
+	width: 80%;
+}
+
+.rawr {
+	height: 48%;
+	width: 100%;
+}
+
+.checkbox {
+	height: 48%;
+	width: 100%;
+	display: flex;
+
+}
+
+.box {
+	height: 50%;
+	width: 8%;
+	border: black solid 2px;
+	margin-right: 5px;
+	background-color: blue;
+}
+
+.textbox {
+	height: 50%;
+	width: 8%;
+	margin-right: 8px;
+}
+
+.textbox h3 {
+	text-align: center-top;
+}
+
+h2{
+
+}
+
+h3 {
+	text-align: left;
+}
